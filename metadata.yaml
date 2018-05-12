@@ -1,0 +1,44 @@
+_repo: Le-Vaisseau-fant-me--Der-Fliegende-Holl-nder-_26943
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Nuitter, Charles
+    alias: Truinet, Charles Louis Étienne
+    birthdate: 1828
+    deathdate: 1899
+    gutenberg_agent_id: '32352'
+    url: http://www.gutenberg.org/2009/agents/32352
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wagner, Richard
+    aliases:
+    - Wagner, Wilhelm Richard
+    - Drach, Wilhelm
+    - Wagner, R. (Richard)
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '1325'
+    url: http://www.gutenberg.org/2009/agents/1325
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Richard_Wagner
+    - http://fr.wikipedia.org/wiki/Richard_Wagner
+description: ''
+gutenberg_bookshelf:
+- FR Théâtre
+- FR Musique
+gutenberg_issued: '2008-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26943'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Opera'
+- !lcc 'ML'
+title: Le Vaisseau fantôme (Der Fliegende Holländer)
+url: http://www.gutenberg.org/ebooks/26943
