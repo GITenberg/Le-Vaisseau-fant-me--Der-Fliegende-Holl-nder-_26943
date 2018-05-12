@@ -26,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Richard_Wagner
     - http://fr.wikipedia.org/wiki/Richard_Wagner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26943#Le-Vaisseau-fant-me--Der-Fliegende-Holl-nder-
 gutenberg_bookshelf:
 - FR Théâtre
 - FR Musique
